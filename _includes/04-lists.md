@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+my list of  favorite things.
+- ilike:heart:
+- ilike:smile:
+- ilike:+1:
